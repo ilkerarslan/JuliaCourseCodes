@@ -39,7 +39,6 @@ cs2 = CSStudent("Mary", 112233, 3.95)
 cs3 = CSStudent("Ali", 135797, 3.11, "Development", "Java")
 
 mutable struct DataScienceStudent <: CSStudent end
-end
 
 function CSStudent(; name,
                      student_id,
@@ -55,7 +54,6 @@ cs4
 
 students = CSStudent[]
 push!(students, cs1, cs2, cs3, cs4)
-
 
 mutable struct MathStudent 
     name::String 
