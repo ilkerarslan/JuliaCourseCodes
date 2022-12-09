@@ -1,0 +1,3 @@
+For loop is the most common type of loop.
+The other type of loop is the while loop. 
+Loops are very powerful and fast in Julia. 
