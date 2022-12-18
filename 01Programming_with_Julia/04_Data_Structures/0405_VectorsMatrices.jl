@@ -42,8 +42,8 @@ cvec1 = [1, 2, 3, 4, 5]
 cvec2 = [6, 7, 8, 9, 10]
 cvec3 = [11, 12, 13, 14, 15]
 
-vcat(v1, v2, v3)
-hcat(v1, v2, v3)
+vcat(cvec1, cvec2, cvec3)
+hcat(cvec1, cvec2, cvec3)
 
 rvec1 = [1 2 3 4 5]
 rvec2 = [6 7 8 9 10]
