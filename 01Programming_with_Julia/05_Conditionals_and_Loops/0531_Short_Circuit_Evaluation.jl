@@ -1,6 +1,6 @@
 print("Enter your age: ")
 age = readline()
-#age = parse(Int, age)
+
 (tryparse(Int, age) === nothing) && (println("Please enter a numeric input!"); exit())
 (tryparse(Int, age) === nothing) || (age = parse(Int, age))
 
