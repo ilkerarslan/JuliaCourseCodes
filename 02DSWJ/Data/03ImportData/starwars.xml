@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<starwars><movie><order>IV</order><name>A New Hope</name><year>1977</year><rating source="IMDB">8.6</rating></movie><movie><order>V</order><name>The Empire Strikes Back</name><year>1980</year><rating source="IMDB">8.7</rating></movie><movie><order>VI</order><name>Return of the Jedi</name><year>1983</year><rating source="IMDB">8.3</rating></movie></starwars>

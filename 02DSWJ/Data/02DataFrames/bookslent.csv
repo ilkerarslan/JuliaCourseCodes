@@ -1,0 +1,11 @@
+﻿Record_No,Book_No,Book_Name,Member_No,Date_Given,Due_Date
+1,2,Statistics with Julia,2,12/31/2022,1/20/2023
+2,10,HTML&CSS Design and Build Websites,5,1/5/2023,1/25/2023
+3,6,Hands-On Design Patterns and Best Practices with Julia,7,1/10/2023,1/30/2023
+4,16,Quantum Computing: An Applied Approach,10,1/15/2023,2/4/2023
+5,20,Statistical Inference,13,12/18/2022,1/7/2023
+6,24,Introduction to Modern Economics Growth,15,12/10/2022,12/30/2022
+7,4,Julia High Performance,5,1/16/2023,2/5/2023
+8,13,Linear Algebra and Its Applications,10,12/20/2022,1/9/2023
+9,21,Algorithms for Optimization,3,12/28/2022,1/17/2023
+10,8,Don't Make Me Think,12,1/12/2023,2/1/2023

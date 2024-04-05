@@ -1,0 +1,107 @@
+[
+    {
+        "name": "Breaking Bad",
+        "start": 2008,
+        "end": 2013,
+        "episodes": 62,
+        "rating": 9.5
+    },
+    {
+        "name": "Avatar: The Last Airbender",
+        "start": 2005,
+        "end": 2008,
+        "episodes": 62,
+        "rating": 9.3
+    },
+    {
+        "name": "The Sopranos",
+        "start": 1999,
+        "end": 2007,
+        "episodes": 86,
+        "rating": 9.2
+    },
+    {
+        "name": "Game of Thrones",
+        "start": 2011,
+        "end": 2019,
+        "episodes": 73,
+        "rating": 9.2
+    },
+    {
+        "name": "Sherlock",
+        "start": 2010,
+        "end": 2017,
+        "episodes": 15,
+        "rating": 9.1
+    },
+    {
+        "name": "The Office",
+        "start": 2005,
+        "end": 2013,
+        "episodes": 188,
+        "rating": 9.0
+    },
+    {
+        "name": "Better Call Saul",
+        "start": 2015,
+        "end": 2022,
+        "episodes": 63,
+        "rating": 9.0
+    },
+    {
+        "name": "Seinfeld",
+        "start": 1989,
+        "end": 1998,
+        "episodes": 173,
+        "rating": 8.9
+    },
+    {
+        "name": "Friends",
+        "start": 1994,
+        "end": 2004,
+        "episodes": 234,
+        "rating": 8.9
+    },
+    {
+        "name": "The Last of Us",
+        "start": 2023,
+        "end": "",
+        "episodes": 10,
+        "rating": 8.8
+    },
+    {
+        "name": "Modern Family",
+        "start": 2009,
+        "end": 2020,
+        "episodes": 250,
+        "rating": 8.5
+    },
+    {
+        "name": "Black Mirror",
+        "start": 2011,
+        "end": "",
+        "episodes": 27,
+        "rating": 8.7
+    },
+    {
+        "name": "Brooklyn Nine-Nine",
+        "start": 2013,
+        "end": 2021,
+        "episodes": 153,
+        "rating": 8.4
+    },
+    {
+        "name": "How I Met Your Mother",
+        "start": 2005,
+        "end": 2014,
+        "episodes": 208,
+        "rating": 8.3
+    },
+    {
+        "name": "The Big Bang Theory",
+        "start": 2007,
+        "end": 2019,
+        "episodes": 280,
+        "rating": 8.2
+    }
+]

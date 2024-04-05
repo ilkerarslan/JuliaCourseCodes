@@ -1,0 +1,11 @@
+{
+    "name": "Obi Wan", 
+    "surname": "Kenobi", 
+    "studentId": 1234,     
+    "scores": [
+        {"course": "Flight", "score": 100},
+        {"course": "Fencing", "score": 95},
+        {"course": "Robotics", "score": 90},
+        {"course": "Astronomy", "score": 85}        
+    ]
+}

@@ -1,0 +1,27 @@
+﻿Book_No,Book_Name,First_Writer,Publisher,Year,ISBN,Subject
+1,Think Julia,Ben Lauwens,O'Reilly,2019,978-1-492-04503-8,Computer Programming
+2,Statistics with Julia,Yoni Nazarathy,Springer,2021,978-3-030-70900-6,Computer Programming
+3,Julia - Bit by Bit,Noel Kalicharan,Springer,2021,978-3-030-73935-5,Computer Programming
+4,Julia High Performance,Avik Sengupta,Packt,2019,78-1-78829-811-7,Computer Programming
+5,Julia 1.0 Programming,Ivo Balbaert,Packt,2018,78-1-78899-909-0,Computer Programming
+6,Hands-On Design Patterns and Best Practices with Julia,Tom Kwong,Packt,2020,978-1-83864-881-7,Computer Programming
+7,Data Science with Julia,Paul D. McNicholas,CRC Press,2019,978-1-138-49998-0,Computer Programming
+8,Don't Make Me Think,Steve Krug,New Riders,2014,978-0-321-96551-6,Design
+9,Responsive Web Design with HTML5 and CSS,Ben Frain,Packt,2022,978-1-80324-271-2,Computer Programming
+10,HTML&CSS Design and Build Websites,Jon Duckett,Wiley,2011,978-1-118-00818-8,Computer Programming
+11,The Rust Programming Language,Steve Klabnik,No Starch Press,2019,978-1-7185-0044-0,Computer Programming
+12,Programming Rust,Jim Blandy,O'Reilly,2021,978-1-492-05259-3,Computer Programming
+13,Linear Algebra and Its Applications,Gilbert Strang,Cengage,2006,978-81-315-0172-6,Mathematics
+14,"IFRS 9 and CECL Credit
+Risk Modelling and
+Validation",Tiziano Bellini,Elsevier,2019,978-0-12-814940-9,Credit Risk
+15,Calculus A Complete Course,Robert A. Adams,Pearson,2018,978-0-13-415436-7,Mathematics
+16,Quantum Computing: An Applied Approach,Jack D. Hidary,Springer,2019,978-3-030-23921-3,Computer Programming
+17,Quantum Computation and Quantum Information,Michael A. Nielsen,Cambridge,2010,978-1-107-00217-3,Computer Programming
+18,Web Development with Julia and Genie,Ivo Balbaert,Packt,2022,978-1-80181-113-2,Computer Programming
+19,Introduction to Probability,Dimitri P. Bertsekas,Athena Scientific,2008,978-1-886529-38-0,Mathematics
+20,Statistical Inference,George Casella,Cengage,2002,978-0-495-39187-6,Mathematics
+21,Algorithms for Optimization,Mykel J. Kochenderfer,MIT Press,2019,978-0-262-03942-0,Mathematics
+22,Introductory Econometrics,Jeffrey M. Wooldridge,Cengage,2020,978-1-337-55886-0,Econometrics
+23,Econometrics,Fumio Hayashi,Princeton,2000,978-0-691-01018-2,Econometrics
+24,Introduction to Modern Economics Growth,Daron Acemoglu,Princeton,2009,978-0-691-13292-1,Economics
