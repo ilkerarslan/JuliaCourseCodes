@@ -6,9 +6,9 @@ x |> square |> sum
 
 x |> (a -> a .- sum(a)/length(a)) .|> square |> sum |> sqrt
 
-
-
 str = "Writing functions in Julia Programming"
 str |> split .|> length
-
 str |> split .|> first 
+
+mean(x) = sum(x) / length(x)
+x |> (a -> a .- sum(a)/length(a)) .|> square |> mean |> sqrt

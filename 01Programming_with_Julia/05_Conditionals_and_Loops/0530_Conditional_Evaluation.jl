@@ -75,3 +75,9 @@ elseif 0 ≤ score < 60
 else
     println("You haven't entered a valid score")
 end
+
+score = 70;
+score > 50 ? "passed" : "failed"
+
+score = 55;
+score > 85 ? "Grade A" : score > 60 ? "Grade B" : "Grade C"
