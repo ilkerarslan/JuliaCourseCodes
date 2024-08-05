@@ -58,7 +58,7 @@ for fname in files
     end
 end
 
-dir = "10_Streams_Networking\Data_Files"
+dir = "10_Streams_Networking\\Data_Files"
 mkdir(dir)
 for fname in ["sales", "employees", "products"]
     file = dir*"\\"*".txt"
