@@ -2,7 +2,6 @@ module BankModule
 
 export Bank 
 
-
 mutable struct Bank
     name::String 
     cash::Float64 

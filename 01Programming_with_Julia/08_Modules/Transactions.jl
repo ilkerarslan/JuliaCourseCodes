@@ -1,6 +1,14 @@
-module Transaction
+module Transactions
 
-using BankModule, CustomerModule
+include("BankModule.jl")
+include("CustomerModule.jl")
+
+using .BankModule, .CustomerModule
+
+# Re-export the types and functions from BankModule and CustomerModule
+export Bank, Customer
+
+# Export our own functions
 export deposit, withdraw
 
 function deposit(cust::Customer, bank::Bank, amount::Float64)
@@ -14,7 +22,6 @@ function deposit(cust::Customer, bank::Bank, amount::Float64)
     end
 end
 
-
 function withdraw(cust::Customer, bank::Bank, amount::Float64)
     if bank.cash ≥ amount 
         if cust.bankdeposit ≥ amount 
@@ -26,9 +33,8 @@ function withdraw(cust::Customer, bank::Bank, amount::Float64)
             println("You don't have that amount in your deposit account!")
         end
     else
-        println("Not enough cash in our vauls. Sorry!")
+        println("Not enough cash in our vaults. Sorry!")
     end
 end
-
 
 end # end of the module
